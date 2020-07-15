@@ -4,7 +4,7 @@ import os
 import zipfile
 # call on members Union, List
 import typing
-# call on member data.CustomData, systemutils_more.download, systemutils.config
+# call on members data.CustomData, systemutils_more.download, systemutils.config
 import h2oaicore
 import datatable as dt
 import numpy as np
